@@ -1,4 +1,4 @@
-import '../static/wasm_exec'
+// import '../static/wasm_exec'
 import Vue from 'vue'
 
 declare module 'vue/types/vue' {
